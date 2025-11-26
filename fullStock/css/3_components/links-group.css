@@ -23,6 +23,10 @@
 
 .footer__link {
   font-size: 0.875rem;
+ 
+}
+.footer__link a{
+   color: var(--foreground);
 }
 
 @media (min-width: 768px) {
